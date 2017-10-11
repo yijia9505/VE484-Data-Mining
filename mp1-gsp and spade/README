@@ -1,0 +1,15 @@
+---------------------------------------
+For gsp.cpp:                        
+compile:         g++ -o gsp gsp.cpp         
+run:             ./gsp minsup				
+inputfile name:  sequencedb.txt		
+outputfile name: output.txt			
+									
+---------------------------------------
+For spade.cpp:						
+compile:         g++ -o spade spade.cpp		
+run:             ./spade  minsup				
+inputfile name:  sequencedb.txt		
+outputfile name: output.txt		
+
+---------------------------------------

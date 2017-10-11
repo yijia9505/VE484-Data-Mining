@@ -1,0 +1,4 @@
+/*DBSCAN*/
+compile:  make
+inputfile: t7-4k.txt
+run: ./dbscan epilson minpts >outputfile
